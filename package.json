@@ -1,0 +1,19 @@
+{
+  "name": "layout-muse",
+  "version": "1.0.0",
+  "description": "adobe muse layout",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsinrazaq/Layout-Muse.git"
+  },
+  "author": "Mohsin Razzaq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohsinrazaq/Layout-Muse/issues"
+  },
+  "homepage": "https://github.com/mohsinrazaq/Layout-Muse#readme"
+}
