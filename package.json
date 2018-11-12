@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mohsinrazaq/Layout-Muse/issues"
   },
-  "homepage": "https://github.com/mohsinrazaq/Layout-Muse#readme"
+  "homepage": "https://github.com/mohsinrazaq/Layout-Muse#readme",
+  "dependencies": {
+    "eslint": "^5.9.0"
+  }
 }
