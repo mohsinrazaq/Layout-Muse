@@ -6,11 +6,11 @@ This Layout is Not a clone but an approach to achieve [Adobe Muse - Site Of The 
 It Is Responsive and Mobile Friendly Layout!
 
 ----------------------------------------------------------------
-**TRY: Live Demo**: [Muse-Layout](https://arslanameer.github.io/Layout-Muse/)
+
 ----------------------------------------------------------------
 ![](src/_notes/compare.png)
 ----------------------------------------------------------------
 
 **Note**: Need Minor Improvements and Enhancements! (Updating Soon)
 
-_(Arslan Ameer)_
+_(Mohsin Razzaq)_
