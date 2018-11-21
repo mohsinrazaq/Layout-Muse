@@ -10,7 +10,6 @@ It Is Responsive and Mobile Friendly Layout!
 ----------------------------------------------------------------
 ![](src/_notes/compare.png)
 ----------------------------------------------------------------
-**TRY: Live Demo**: [Muse-Layout](https://arslanameer.github.io/Layout-Muse/)
 
 **Note**: Need Minor Improvements and Enhancements! (Updating Soon)
 
